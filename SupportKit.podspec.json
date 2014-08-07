@@ -12,7 +12,7 @@
     "Radialpoint": "supportkit@radialpoint.com"
   },
   "source": {
-    "git": "https://github.com/radialpoint/SupportKit.git",
+    "git": "git@github.com:gatewaytechnology/SupportKit.git",
     "tag": "v1.5.3"
   },
   "source_files": [
